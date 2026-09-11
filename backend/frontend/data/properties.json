@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Beautiful Apartment in Bangalore 1",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Buy",
+    "price": 8830547.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "title": "Beautiful Apartment in Bangalore 2",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Buy",
+    "price": 19551555.0,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "title": "Beautiful Apartment in Bangalore 3",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Rent",
+    "price": 25916.0,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "title": "Beautiful Apartment in Bangalore 4",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Buy",
+    "price": 9567481.0,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "title": "Beautiful Apartment in Bangalore 5",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Rent",
+    "price": 35888.0,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 6,
+    "title": "Beautiful Apartment in Bangalore 6",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Buy",
+    "price": 15152871.0,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 7,
+    "title": "Beautiful Apartment in Bangalore 7",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Rent",
+    "price": 23869.0,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 8,
+    "title": "Beautiful Apartment in Bangalore 8",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Rent",
+    "price": 49945.0,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 9,
+    "title": "Beautiful Apartment in Bangalore 9",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Buy",
+    "price": 6458205.0,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 10,
+    "title": "Beautiful Apartment in Bangalore 10",
+    "description": "A spacious apartment with modern amenities in a prime location.",
+    "city": "Bangalore",
+    "property_type": "Rent",
+    "price": 23302.0,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 11,
+    "title": "Sea View Flat in Mumbai 1",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Rent",
+    "price": 77354.0,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 12,
+    "title": "Sea View Flat in Mumbai 2",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Rent",
+    "price": 47422.0,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 13,
+    "title": "Sea View Flat in Mumbai 3",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Rent",
+    "price": 66005.0,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 14,
+    "title": "Sea View Flat in Mumbai 4",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Buy",
+    "price": 38419242.0,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 15,
+    "title": "Sea View Flat in Mumbai 5",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Rent",
+    "price": 63571.0,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 16,
+    "title": "Sea View Flat in Mumbai 6",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Buy",
+    "price": 34927262.0,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 17,
+    "title": "Sea View Flat in Mumbai 7",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Buy",
+    "price": 38907758.0,
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 18,
+    "title": "Sea View Flat in Mumbai 8",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Buy",
+    "price": 36018835.0,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 19,
+    "title": "Sea View Flat in Mumbai 9",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Buy",
+    "price": 19793587.0,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 20,
+    "title": "Sea View Flat in Mumbai 10",
+    "description": "Luxurious flat with a stunning sea view and premium facilities.",
+    "city": "Mumbai",
+    "property_type": "Buy",
+    "price": 37346841.0,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=60"
+  }
+]
